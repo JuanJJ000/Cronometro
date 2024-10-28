@@ -1,0 +1,8 @@
+Programa utilizado para escalado de pantalla 125%
+
+
+Comandos:
+
+CTRL+ALT+t:  Iniciar/Reiniciar Cronometro
+
+CTRL+ALT+p:  Pausar/Reanudar Cronometro
